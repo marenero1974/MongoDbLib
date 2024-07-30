@@ -1,0 +1,6 @@
+systemLog:
+  destination: file
+  path: C:\Users\Luca Antonelli\Documents\capco\database\data\log\mongod.log
+  logAppend: true
+storage:
+  dbPath: C:\Users\Luca Antonelli\Documents\capco\database\data\db
